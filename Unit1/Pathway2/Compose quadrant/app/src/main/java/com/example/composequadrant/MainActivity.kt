@@ -49,8 +49,8 @@ fun Greeting(modifier: Modifier = Modifier) {
             Column(
                 modifier = Modifier
                     .weight(1f)
-                    .fillMaxSize()
-                    .padding(16.dp).background(Color(0xFFEADDFF)), verticalArrangement = Arrangement.Center,
+                    .fillMaxSize().background(Color(0xFFEADDFF))
+                    .padding(16.dp), verticalArrangement = Arrangement.Center,
                     horizontalAlignment = Alignment.CenterHorizontally,
 
 
@@ -67,8 +67,8 @@ fun Greeting(modifier: Modifier = Modifier) {
             Column(
                 modifier = Modifier
                     .weight(1f)
-                    .fillMaxSize()
-                    .padding(16.dp).background(Color(0xFFD0BCFF)), verticalArrangement = Arrangement.Center,
+                    .fillMaxSize().background(Color(0xFFD0BCFF))
+                    .padding(16.dp), verticalArrangement = Arrangement.Center,
                 horizontalAlignment = Alignment.CenterHorizontally,
 
 
@@ -89,7 +89,7 @@ fun Greeting(modifier: Modifier = Modifier) {
                 modifier = Modifier
                     .weight(1f)
                     .fillMaxSize()
-                    .padding(16.dp).background(Color(0xFFB69DF8)), verticalArrangement = Arrangement.Center,
+                    .background(Color(0xFFB69DF8)).padding(16.dp), verticalArrangement = Arrangement.Center,
                 horizontalAlignment = Alignment.CenterHorizontally,
 
 
@@ -106,8 +106,8 @@ fun Greeting(modifier: Modifier = Modifier) {
             Column(
                 modifier = Modifier
                     .weight(1f)
-                    .fillMaxSize()
-                    .padding(16.dp).background(Color(0xFFF6EDFF)), verticalArrangement = Arrangement.Center,
+                    .fillMaxSize().background(Color(0xFFF6EDFF))
+                    .padding(16.dp), verticalArrangement = Arrangement.Center,
                 horizontalAlignment = Alignment.CenterHorizontally,
 
 
