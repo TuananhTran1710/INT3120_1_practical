@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="title_1">The First</string>
+    <string name="title_2">The Second</string>
+    <string name="title_3">The Third</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <string name="artist_1">Artist 1</string>
+    <string name="artist_2">Artist 2</string>
+    <string name="artist_3">Artist 3</string>
+
+    <string name="year_1">Year 1</string>
+    <string name="year_2">Year 2</string>
+    <string name="year_3">Year 3</string>
+
+</resources>
