@@ -13,6 +13,7 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.offset
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.layout.wrapContentHeight
@@ -96,14 +97,14 @@ fun Greeting(modifier: Modifier = Modifier) {
         horizontalAlignment = Alignment.CenterHorizontally) {
 
         Spacer(modifier = Modifier.height(100.dp))
-        // Ảnh trong Card
+
 
         val imageResource = painterResource(image)
 
         Card(
             shape = RoundedCornerShape(8.dp),
             elevation = CardDefaults.cardElevation(8.dp),
-            modifier = Modifier.fillMaxWidth().height(220.dp),
+            modifier = Modifier.fillMaxWidth().height(220.dp).offset(x = 0.dp, y = 0.dp),
             colors = CardDefaults.cardColors(containerColor = Color.White),
 
         ) {
