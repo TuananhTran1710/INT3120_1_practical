@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">30DaysPlantsAlmanac</string>
+
+    <string name="peashooter">Peashooter</string>
+    <string name="peashooter_desc">Peashooters are your first line of defense. They shoot peas at attacking zombies.</string>
+
+    <string name="sunflower">Sunflower</string>
+    <string name="sunflower_desc">Sunflowers are essential for you to produce extra sun. Try planting as many as you can!</string>
+
+    <string name="cherry_bomb">Cherry Bomb</string>
+    <string name="cherry_bomb_desc">Cherry Bombs can blow up all zombies in an area. They have a short fuse so plant them near zombies.</string>
+
+    <string name="wall_nut">Wall-nut</string>
+    <string name="wall_nut_desc">Wall-nuts have hard shells which you can use to protect your other plants.</string>
+
+    <string name="potato_mine">Potato Mine</string>
+    <string name="potato_mine_desc">Potato Mines pack a powerful punch, but they need a while to arm themselves. You should plant them ahead of zombies. They will explode on contact.</string>
+
+    <string name="snow_pea">Snow Pea</string>
+    <string name="snow_pea_desc">Snow Peas shoot frozen peas that damage and slow the enemy.</string>
+
+    <string name="chomper">Chomper</string>
+    <string name="chomper_desc">Chompers can devour a zombie whole, but they are vulnerable while chewing.</string>
+
+    <string name="repeater">Repeater</string>
+    <string name="repeater_desc">Repeaters fire two peas at a time.</string>
+    
+    <string name="puff_shroom">Puff-shroom</string>
+    <string name="puff_shroom_desc">Puff-shrooms are cheap, but can only fire a short distance.</string>
+    
+    <string name="sun_shroom">Sun-shroom</string>
+    <string name="sun_shroom_desc">Sun-shrooms give small sun at first and normal sun later.</string>
+    
+    <string name="fume_shroom">Fume-shroom</string>
+    <string name="fume_shroom_desc">Fume-shrooms shoot fumes that can pass through screen doors.</string>
+
+    <string name="grave_buster">Grave Buster</string>
+    <string name="grave_buster_desc">Plant Grave Busters on graves to remove the graves.</string>
+
+    <string name="hypno_shroom">Hypno-shroom</string>
+    <string name="hypno_shroom_desc">When eaten, Hypno-shrooms will make a zombie turn around and fight for you.</string>
+
+    <string name="scaredy_shroom">Scaredy-shroom</string>
+    <string name="scaredy_shroom_desc">Scaredy-shrooms are long-ranged shooters that hide when enemies get near them.</string>
+
+    <string name="ice_shroom">Ice-shroom</string>
+    <string name="ice_shroom_desc">Ice-shrooms temporarily immobilize all zombies on the screen.</string>
+
+    <string name="doom_shroom">Doom-shroom</string>
+    <string name="doom_shroom_desc">Doom-shrooms destroy everything in a large area and leave a crater that can\'t be planted on.</string>
+
+    <string name="lily_pad">Lily Pad</string>
+    <string name="lily_pad_desc">Lily pads let you plant non-aquatic plants on top of them.</string>
+
+    <string name="squash">Squash</string>
+    <string name="squash_desc">Squashes will smash the first zombie that gets close to it.</string>
+
+    <string name="threepeater">Threepeater</string>
+    <string name="threepeater_desc">Threepeaters shoot peas in three lanes.</string>
+
+    <string name="tangle_kelp">Tangle Kelp</string>
+    <string name="tangle_kelp_desc">Tangle Kelp are aquatic plants that pull the first zombie that nears them underwater.</string>
+
+    <string name="jalapeno">Jalapeno</string>
+    <string name="jalapeno_desc">Jalapenos destroy an entire lane of zombies.</string>
+
+    <string name="spikeweed">Spikeweed</string>
+    <string name="spikeweed_desc">Spikeweeds pop tires and hurt any zombies that step on them.</string>
+
+    <string name="torchwood">Torchwood</string>
+    <string name="torchwood_desc">Torchwoods turn peas that pass through them into fireballs that deal twice as much damage.</string>
+
+    <string name="tall_nut">Tall-nut</string>
+    <string name="tall_nut_desc">Tall-nuts are heavy-duty wall plants that can\'t be vaulted over.</string>
+
+    <string name="sea_shroom">Sea-shroom</string>
+    <string name="sea_shroom_desc">Sea-shrooms are aquatic plants that shoot short ranged spores.</string>
+
+    <string name="plantern">Plantern</string>
+    <string name="plantern_desc">Planterns light up an area, letting you see through fog.</string>
+
+    <string name="cactus">Cactus</string>
+    <string name="cactus_desc">Cactuses shoot spikes that can hit both ground and air targets.</string>
+
+    <string name="blover">Blover</string>
+    <string name="blover_desc">Blovers blow away all balloon zombies and fog.</string>
+
+    <string name="split_pea">Split Pea</string>
+    <string name="split_pea_desc">Split Peas shoot peas forward and backwards.</string>
+
+    <string name="starfruit">Starfruit</string>
+    <string name="starfruit_desc">Starfruits shoot stars in 5 directions.</string>
+
+    <string name="pumpkin">Pumpkin</string>
+    <string name="pumpkin_desc">Pumpkins protect plants that are within their shells.</string>
+
+    <string name="magnet_shroom">Magnet-shroom</string>
+    <string name="magnet_shroom_desc">Magnet-shrooms remove helmets and other metal objects from zombies.</string>
+
+    <string name="cabbage_pult">Cabbage-pult</string>
+    <string name="cabbage_pult_desc">Cabbage-pults hurl cabbages at the enemy.</string>
+
+    <string name="flower_pot">Flower Pot</string>
+    <string name="flower_pot_desc">Flower Pots let you plant on the roof.</string>
+
+    <string name="kernel_pult">Kernel-pult</string>
+    <string name="kernel_pult_desc">Kernel-pults fling corn kernels and butter at zombies.</string>
+
+    <string name="coffee_bean">Coffee Bean</string>
+    <string name="coffee_bean_desc">Use Coffee Beans to wake up sleeping mushrooms.</string>
+
+    <string name="garlic">Garlic</string>
+    <string name="garlic_desc">Garlic diverts zombies into other lanes.</string>
+
+    <string name="umbrella_leaf">Umbrella Leaf</string>
+    <string name="umbrella_leaf_desc">Umbrella Leaves protect nearby plants from bungees and catapults.</string>
+
+    <string name="marigold">Marigold</string>
+    <string name="marigold_desc">Marigolds give you silver and gold coins.</string>
+
+    <string name="melon_pult">Melon-pult</string>
+    <string name="melon_pult_desc">Melon-pults do heavy damage to groups of zombies.</string>
+
+    <string name="gatling_pea">Gatling Pea</string>
+    <string name="gatling_pea_desc">Gatling Peas shoot four peas at a time.</string>
+
+    <string name="twin_sunflower">Twin Sunflower</string>
+    <string name="twin_sunflower_desc">Twin Sunflowers give twice as much sun as a normal sunflower.</string>
+
+    <string name="gloom_shroom">Gloom-shroom</string>
+    <string name="gloom_shroom_desc">Gloom-shrooms release heavy fumes in an area around themselves.</string>
+
+    <string name="cattail">Cattail</string>
+    <string name="cattail_desc">Cattails can attack any lane and shoot down balloon zombies too.</string>
+
+    <string name="winter_melon">Winter Melon</string>
+    <string name="winter_melon_desc">Winter Melons do heavy damage and slow groups of zombies.</string>
+
+    <string name="gold_magnet">Gold Magnet</string>
+    <string name="gold_magnet_desc">Gold Magnets collect coins and diamonds for you.</string>
+
+    <string name="spikerock">Spikerock</string>
+    <string name="spikerock_desc">Spikerocks pop multiple tires and damage zombies that walk over it.</string>
+
+    <string name="cob_cannon">Cob Cannon</string>
+    <string name="cob_cannon_desc">Click on the Cob Cannon to launch deadly cobs of corn.</string>
+</resources>
