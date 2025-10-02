@@ -23,24 +23,13 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Sports"
-        tools:targetApi="33">
-        <!-- KHAI BÁO MỚI: SelectedSportsActivity -->
-        <activity
-            android:name=".SelectedSportsActivity"
-            android:exported="false"
-            android:label="@string/selected_sports_title"
-            android:parentActivityName=".MainActivity">
-            <!-- Giúp nút Up về MainActivity hoạt động trên mọi API -->
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
-        </activity>
+        android:theme="@style/Theme.RaceTracker"
+        tools:targetApi="31">
         <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.Sports">
+            android:theme="@style/Theme.RaceTracker">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

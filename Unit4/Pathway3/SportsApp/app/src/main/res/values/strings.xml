@@ -32,6 +32,11 @@
     <string name="table_tennis">Table Tennis</string>
     <string name="tennis">Tennis</string>
 
+    <string name="next_button_text">Next</string>
+    <string name="selected_sports_title">Môn đã chọn</string>
+    <string name="total_calories_label">Tổng calo: %1$d</string>
+    <string name="calories_label">%1$d calo</string>
+
     <string name="sports_list_subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum.</string>
     <string name="sport_detail_text">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
